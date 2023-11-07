@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Lead Front-End Engineer on a fintech in México.
 - ⚡ I have a master on IT projects management and currently studying another on Artificial Inteligence Applied
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reeyhdz)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-reeyhdz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reeyhdz)
 
 
 ---
